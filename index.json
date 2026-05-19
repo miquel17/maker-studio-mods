@@ -7,7 +7,7 @@
             "id": "com.toskan4134.discord-rich-presence",
             "name": "Discord Rich Presence",
             "author": "Toskan4134",
-            "repo": "Toskan4134/ms-discord-rich-presence",
+            "repo": "Toskan4134/msmod-discord-rich-presence",
             "description": "Shows your current project, map, and elapsed time in Discord status.",
             "tags": ["discord", "integration", "status"],
             "homepage": "https://x.com/Toskan4134",

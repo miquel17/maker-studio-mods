@@ -1,4 +1,4 @@
-# Maker Studio Mods Registry 
+# Maker Studio Mods Registry
 
 This repository is the curated index for the Maker Studio mod marketplace. The editor fetches `index.json` from this repo to populate the in-app Marketplace.
 
@@ -10,11 +10,12 @@ Open Maker Studio → **Mods** menu → **Mod Manager** → **Marketplace** tab.
 
 Want your mod listed here? Start with:
 
+- **[TUTORIAL.md](TUTORIAL.md)** — **first-timers start here.** Hands-on walkthrough: scaffold → write → test → sign → release → submit. ~30 min the first time.
 - **[docs/](docs/)** — Mod API reference, events list, getting-started, changelog, and `mod-api.d.ts` for IDE autocomplete.
 - **[examples/](examples/)** — every bundled example mod with annotated walkthroughs. Best way to learn the API in context.
 - **[`scripts/new-mod.ps1`](scripts/new-mod.ps1) / [`new-mod.sh`](scripts/new-mod.sh)** — scaffold a fresh mod folder (manifest + activate stub + README) in one prompt.
 - **[KEYS.md](KEYS.md)** — generate your minisign signing keypair (uses the [`scripts/`](scripts/) helpers).
-- **[PUBLISHING.md](PUBLISHING.md)** — full step-by-step guide: release format, signing, registry PR, updates.
+- **[PUBLISHING.md](PUBLISHING.md)** — reference guide: release format, signing, registry PR, updates.
 - **[SUBMISSION.md](SUBMISSION.md)** — short rules and PR checklist.
 
 In short:

@@ -1,6 +1,8 @@
 # Publishing a Mod
 
-End-to-end guide for getting your mod into the Maker Studio Marketplace. Skip ahead to whichever section you need:
+> **First time publishing?** Use the hands-on walkthrough in **[TUTORIAL.md](TUTORIAL.md)** instead — it walks you through the same steps with concrete commands and example output. Come back here for reference once you know the flow.
+
+End-to-end reference for getting your mod into the Maker Studio Marketplace. Skip ahead to whichever section you need:
 
 1. [Repo layout](#1--your-mod-repo)
 2. [Release convention](#2--release-convention)

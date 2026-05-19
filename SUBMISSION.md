@@ -27,9 +27,13 @@ Your mod must:
 
 ## How to submit
 
-1. Fork this repo.
-2. Add your mod entry to `index.json` (alphabetical by `id`).
-3. Open a PR. Fill in the template completely.
+First-timer? Follow the hands-on walkthrough in **[TUTORIAL.md](TUTORIAL.md)** — covers scaffolding the mod, signing, releasing, and submitting from scratch.
+
+Otherwise the short version:
+
+1. **Easiest (no local git):** open [`index.json`](index.json) on github.com → click the pencil icon → **Edit this file**. GitHub auto-forks the repo under your account. Paste your entry into the `mods` array. Click **Propose changes** → fills the commit message + opens the cross-repo PR. Done.
+2. **Local fork (multiple mods or bigger edits):** `gh repo fork Toskan4134/maker-studio-mods --clone` → branch → edit `index.json` → push → `gh pr create`.
+3. CI validates schema + checks your release zip + `.minisig` (if `pubkey` declared) actually exist on the listed repo.
 4. Maintainer reviews. Once merged, your mod is live for users within 1 hour.
 
 ## Updating
