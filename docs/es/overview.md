@@ -7,6 +7,7 @@ Documentación de referencia de todo lo que puede hacer un mod. Espejo de la doc
 | Documento | Qué aprenderás |
 |----------|-------------------|
 | **[getting-started](getting-started.md)** | Escribe tu primer mod en cinco minutos |
+| **[publishing](publishing.md)** | Recorrido práctico (construye, publica y envía tu primer mod, ~25 min) + referencia completa de publicación |
 | **[api-reference](api-reference.md)** | Cada método, tipo y superficie de ctx disponible para los mods |
 | **[events-reference](events-reference.md)** | Cada evento que emite el editor, con las formas de payload |
 | **[quick-reference](quick-reference.md)** | Chuleta de una página para las llamadas comunes de la API |
@@ -14,7 +15,7 @@ Documentación de referencia de todo lo que puede hacer un mod. Espejo de la doc
 | **[troubleshooting](troubleshooting.md)** | Problemas comunes y cómo arreglarlos |
 | **[mod-api.d.ts](../mod-api.d.ts)** | Definiciones de tipo TypeScript — colócalas en tu proyecto para autocompletado en el IDE |
 
-¿Publicas tu mod a través del Marketplace? Consulta **[PUBLISHING.md](https://github.com/Toskan4134/maker-studio-mods/blob/main/PUBLISHING.md)** en la raíz del repositorio.
+¿Publicas tu mod a través del Marketplace? Consulta **[publishing.md](publishing.md)** —empieza con un tutorial práctico y luego la referencia completa.
 
 ## Usar `mod-api.d.ts` en tu proyecto de mod
 

@@ -7,6 +7,7 @@ Reference docs for everything a mod can do. Mirror of the editor's internal mod-
 | Document | What you'll learn |
 |----------|-------------------|
 | **[getting-started.md](getting-started.md)** | Write your first mod in five minutes |
+| **[publishing.md](publishing.md)** | Hands-on walkthrough (build, release, submit your first mod, ~25 min) + full publishing reference |
 | **[api-reference.md](api-reference.md)** | Every method, type, and ctx surface available to mods |
 | **[events-reference.md](events-reference.md)** | Every event the editor emits, with payload shapes |
 | **[quick-reference.md](quick-reference.md)** | One-page cheat sheet for common API calls |
@@ -14,7 +15,7 @@ Reference docs for everything a mod can do. Mirror of the editor's internal mod-
 | **[troubleshooting.md](troubleshooting.md)** | Common problems and how to fix them |
 | **[mod-api.d.ts](mod-api.d.ts)** | TypeScript type definitions — drop into your project for IDE autocomplete |
 
-Publishing your mod through the Marketplace? See **[../PUBLISHING.md](../PUBLISHING.md)** at the repo root.
+Publishing your mod through the Marketplace? See **[publishing.md](publishing.md)** — it starts with a hands-on tutorial, then the full reference.
 
 ## Using `mod-api.d.ts` in your mod project
 
