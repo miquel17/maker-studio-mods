@@ -50,7 +50,7 @@ examples/mods/
 3. Edit `index.js` — write your own logic, keep what you need from the example.
 4. Rewrite the folder's `README.md` to describe your mod.
 5. Test locally (drop into the mods folder above).
-6. When ready to publish, follow [PUBLISHING.md](../PUBLISHING.md).
+6. When ready to publish, follow [docs/publishing.md](../docs/publishing.md).
 
 ## API hint
 
