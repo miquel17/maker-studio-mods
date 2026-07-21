@@ -1,7 +1,7 @@
 {
   "$schema": "./schema/index.schema.json",
   "schemaVersion": 2,
-  "updatedAt": "2026-07-15T11:04:08Z",
+  "updatedAt": "2026-07-21T20:47:42Z",
   "mods": [
     {
       "id": "com.toskan4134.discord-rich-presence",
@@ -113,6 +113,34 @@
       "version": "1.0.0",
       "assetName": "com.Miolthor.Town-map-editor-1.0.0.zip",
       "sha256": "199b646962b145907d14b2d217552e9ed7c0447f3a31a46610e8ffe32cca1be2"
+    },
+    {
+      "authors": [
+        {
+          "name": "miquel17",
+          "url": "https://github.com/miquel17"
+        }
+      ],
+      "version": "1.0.0",
+      "assetName": "com.miquel17.data-editor-19-1-1.0.0.zip",
+      "sha256": "513fcea86f76a1c51c3e919da79986ac41dd46213ed9f9696a28475eed521fcb",
+      "id": "com.miquel17.data-editor-19-1",
+      "name": "Essentials v19.1 Data Editor",
+      "repo": "miquel17/ms-pe19-data-editor",
+      "description": "Unified editor for Pokémon Essentials 19.1 PBS data",
+      "tags": [
+        "editor",
+        "data",
+        "pbs",
+        "19.1"
+      ],
+      "homepage": "https://github.com/miquel17/ms-pe19-data-editor",
+      "apiVersion": "1.0.0",
+      "permissions": [
+        "fs.project",
+        "fs.write.project",
+        "ui.dialogs"
+      ]
     }
   ]
 }
